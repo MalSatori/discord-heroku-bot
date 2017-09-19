@@ -1,0 +1,9 @@
+urllib
+bs4
+re
+discord
+tensorflow
+sys
+os
+time
+Pillow
