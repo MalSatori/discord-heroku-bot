@@ -1,7 +1,4 @@
 bs4
 discord
 tensorflow
-sys
-os
-time
 Pillow
